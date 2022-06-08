@@ -1,0 +1,95 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Spline+Sans+Mono:wght@500&display=swap");
+h1{
+   font-size: 150%!important;
+   color: maroon;
+}
+*{
+   font-size: 110%;
+   font-family: 'Spline Sans Mono', monospace;
+   box-sizing: border-box;
+}
+font1{
+   color: red;
+}
+larg{
+   color: maroon;
+   font-size: 141%!important;
+}
+form.f2{
+   width: 300px; 
+    height: 200px; 
+    position: absolute; 
+    margin: auto; 
+    left: 0; 
+    right: 0; 
+    top: 0; 
+    bottom: 0;
+}
+a1{
+   margin-top: 20%;
+   margin-left: 10%;
+   font-size: 200%;
+   width: 100%; 
+    height: 200px; 
+    position: absolute;
+    left: 0; 
+    right: 0; 
+    top: 0; 
+    bottom: 0;
+}
+.f1{
+   font-size: 140%;
+   padding: 10px;
+    height: 200px;
+    position: fixed; 
+   position: initial;
+}
+h1{
+   font-size: larger;
+}
+input{
+   margin: 5px;
+   padding:7px;
+   width: 500px;
+   margin-bottom: 10px;
+}
+table{
+   font-size: 90%;
+   text-align: center;
+   border-collapse: collapse;
+}
+th{
+   padding: 5px;
+   border: 3px solid black;
+}
+td{
+   padding: 4px;
+   border: 2px solid black;
+}
+a{
+   margin: 20px;
+   text-decoration: none;
+   color: wheat;
+   background-color: maroon;
+   padding-left: 10px;
+   padding-right: 10px;
+   padding-top: 5px;
+   padding-bottom:5px;
+   border-radius: 5px;
+}
+a:hover{
+   background-color: brown;
+}
+.ch1{
+   padding: 0px;
+   margin: 10px;
+   width:20px;
+   height: 25px;
+}
+.red{
+   display: inline;
+   color: red;
+   font-size:110%;
+   margin: 6px;
+}
