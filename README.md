@@ -2,3 +2,7 @@
 
 The basic PHP backend based web application which contains the basic functionalities related to University Admmision System.
 The Link for the Video of the working will be posted soon.
+
+### Usage:
+The application uses php as its only language, which is the only installation required.
+The Database connection can be provided with MySQL database.
